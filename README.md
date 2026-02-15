@@ -1,1 +1,8 @@
 # Analisis-de-consolas-de-videojuegos
+#En este proyecto se analizaron datos de las ventas de videojuegos, reseñas, géneros, plataformas y clasificación ESRB con el objetivo de estimar el exito de juegos y plataformas y planear el año 2017
+#El análisis muestra que las plataformas tienen un ciclo de vida limitado, a partir de 2013 la elección se dirige a consolas de nueva generación (PS4 Y Xone), mientras que consolas anteriores estaban en declive, con un ciclo de vida entre 7 y 10 años
+#Los generos de acción, shooter y deporte tiene las mayores ventas globales, es una buena área de mercado y los géneros con menores ventas son puzzle o de estrategia
+#La calificación de los criticos profesionales influye en las ventas, mientras que la calificación de los usuarios no afecta directamente a las ventas
+#Hay diferencias regionales significativas, NA y EU tienen preferencia por consolas de sobremesa y juegos de ación, mientras que Japón prefiere consolas portatiles y de origen japones, con preferencia en juegos de rol. Es necesario adoptar la publicidad necesaria a cada región
+#Finalmente las pruebas de hipótesis permite confirmar que existen diferencias significativas entre género, mientras que algunas plataformas presentan calificaciones de usuarios similares
+#En conjunto, los resultados indican que para 2017 los proyectos más prometedores son aquellos desarrollados para PS4 y XOne, generos preferidos por cada región, respaldados por una buena reseña por profesionales y con campañas publicitarias dirigidas a cada región
